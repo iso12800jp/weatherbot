@@ -14,3 +14,6 @@ desktop.ini
 
 #TKN
 code/.env
+
+#フォント
+assets/fonts/*.ttf
