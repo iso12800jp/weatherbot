@@ -1,0 +1,16 @@
+#デザイン案の画像まとめ
+design/
+
+#背景画像のオリジナル
+assets/backgrounds/bg_orig/
+
+#朝夜(統合したのでいらない)
+/src/goodmorning.py
+/src/goodevening.py
+
+#ゴミ
+memo.txt
+desktop.ini
+
+#TKN
+code/.env
